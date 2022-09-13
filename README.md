@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Hi 👋 My name is Saurav Kumar
 ==============================
 
-I'm a Java Backend Developer
+I'm a Full Stack Web Developer
 ---------------------------
 Passionate about coding and Self-motivated with a keen interest in building user-centric products I bring passion, determination, and loyalty to any role I undertake. My spirit animal is definitely a Lion.
 
