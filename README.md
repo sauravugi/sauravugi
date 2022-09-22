@@ -54,9 +54,9 @@
 </div>
 
 <script>
-    GitHubCalendar(".calendar", "your-username");
+    GitHubCalendar(".calendar", "sauravugi");
     // or enable responsive functionality
-    GitHubCalendar(".calendar", "your-username", { responsive: true });
+   // GitHubCalendar(".calendar", "your-username", { responsive: true });
 </script>
 
 
