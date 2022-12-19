@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
                                                        
 - 🔭 I’m currently working on **MySkill😄**
-- 🌱 I’m currently learning **Masai School (Backend Developer)**
+- 🌱 I’m currently learning **Backend Developer (Masai School)**
 - 💬 Ask me about **Java**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://sauravugi.github.io/)
 -  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Le4phFJHhQJmAtBMbb1690xA2d9oROwt/view?usp=sharing)
@@ -30,7 +30,7 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=sauravugi&theme=xcode" height ="307"/>
 
-![snake gif](https://github.com/ahtishamkhan5678/ahtishamkhan5678/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/sauravugi/sauravugi/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
