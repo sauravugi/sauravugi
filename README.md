@@ -41,10 +41,10 @@
 
 # 🌐 Socials:
 <p align="left">
-<a href="https://www.linkedin.com/in/saurav-kumar-752853a4/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurav_kumar" height="50" width="60"  style="margin-right: 10px;"/></a>
-<a href="https://twitter.com/Mr__Saurav" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saurav_kumar" height="50" width="60" style="margin-right: 10px;" /></a>  
-<a href="https://www.hackerrank.com/sauravugi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saurav_kumar" height="50" width="60" style="margin-right: 10px;"/></a>
-<a href="https://www.leetcode.com/sauravugi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurav_kumar" height="50" width="60" style="margin-right: 10px;"/></a>
+<a href="https://www.linkedin.com/in/saurav-kumar-752853a4/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn :- Saurav" height="50" width="60"  style="margin-right: 10px;"/></a>
+<a href="https://twitter.com/Mr__Saurav" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter :- Saurav" height="50" width="60" style="margin-right: 10px;" /></a>  
+<a href="https://www.hackerrank.com/sauravugi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank :- Saurav" height="50" width="60" style="margin-right: 10px;"/></a>
+<a href="https://www.leetcode.com/sauravugi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode :- Saurav" height="50" width="60" style="margin-right: 10px;"/></a>
 </p>
 
 # 💻 Tech Stack:
@@ -67,4 +67,4 @@
 
 <img style="width: 100%;" src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png" alt="">
 
-<h3 style="text-align: center;">Keep Learning, Keep Exploring  <img style="height: 50px;" src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
+<h3 style="text-align: center;"> Keep Learning, Keep Growing, Keep Succeeding <img style="height: 50px;" src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
