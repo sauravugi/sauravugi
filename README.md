@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravugi&label=Profile%20views&color=0e75b6&style=flat" alt="sauravkumar" /> </p>
 
-<img align="right" style="height: 200px;" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="">
+<img align="right" style="height: 200px;" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif" alt="">
 
 - 🔭 I’m currently a student at **Masai School, Bengaluru**
 
-- 🌱 I’m currently learning **spring**
+- 🔭 I’m currently working on **MySkill😄**
+
+- 🌱 I’m currently learning **Backend Development (Masai School)😄**
 
 - 👯 I’m looking to collaborate on **Interesting projects using springboot**
 
@@ -17,13 +19,13 @@
 <!-- Resume -->
 -  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://github.com/sauravugi/Resume/blob/main/Saurav_Kumar_Resume.pdf) &nbsp; 
 
-- 💬 Ask me about **coding and art because that's what fascinates me**
+- 💬 Ask me about **JAVA,SPRINGBOOT**
 
 - 📫 How to reach me **sauravugi@gmail.com**
 
-- ⚡ Fun fact **I think I am creative**
+- ⚡ Fun fact **Always smile😄 in tough situation**
  
-- 😄 Pronouns: ...@Saurav
+- 😄 Pronouns: ...**@Saurav**
 
 - 👯 **Love to connect with people and Know their stories**
 <br>
