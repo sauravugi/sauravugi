@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **MySkill😄**
 
-- 🌱 I’m currently learning **Backend Development (Masai School)😄**
+- 🌱 I’m currently learning **Backend Development 😄**
 
-- 👯 I’m looking to collaborate on **Interesting projects using springboot**
+- 👯 I’m looking to collaborate on **Projects using SpringBoot**
 
  <!-- Portfolio -->
 - 👨‍💻 Checkout my [Portfolio](https://sauravugi.github.io/) &nbsp; 
