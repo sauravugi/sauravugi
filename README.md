@@ -66,4 +66,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
 
-<h3 style="text-align: center;"> Keep Learning, Keep Growing, Keep Succeeding <img style="height: 50px;" src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
+<h3 style="text-align: center;"> Keep Learning, Keep Growing, Keep Succeeding </h3>
