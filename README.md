@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img style="height: 40px;" src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" alt="">, I'm Saurav Kumar</h1>
+<h1 align="center">Hi Everyone, I'm Saurav Kumar</h1>
     <h3 align="center">An Aspiring Java developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravugi&label=Profile%20views&color=0e75b6&style=flat" alt="sauravkumar" /> </p>
@@ -65,7 +65,5 @@
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
-
-<img style="width: 100%;" src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png" alt="">
 
 <h3 style="text-align: center;"> Keep Learning, Keep Growing, Keep Succeeding <img style="height: 50px;" src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
