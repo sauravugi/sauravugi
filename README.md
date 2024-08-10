@@ -1,18 +1,16 @@
 
 <h1 align="center">Hi Everyone, I'm Saurav Kumar</h1>
-    <h3 align="center">An Aspiring Java developer</h3>
+    <h3 align="center">Full Stack Java developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravugi&label=Profile%20views&color=0e75b6&style=flat" alt="sauravkumar" /> </p>
 
 <img align="right" style="height: 200px;" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif" alt="">
 
-- 🔭 I’m currently a student at **Masai School, Bengaluru**
+- 🚀 **Backend Developer with 1.5+ years of experience at Fintek Software Services Pvt. Ltd., Pathankot**
+- 🌱 Specializing in **Java, Spring Boot, RESTful APIs, AWS and Microservices**
+- 💡 Passionate about scalable **Backend Solutions** and **Continuous Learning**
+- 👯 Open to collaboration on innovative **Backend Projects 😄**
 
-- 🔭 I’m currently working on **MySkill😄**
-
-- 🌱 I’m currently learning **Backend Development 😄**
-
-- 👯 I’m looking to collaborate on **Projects using SpringBoot**
 
  <!-- Portfolio -->
 - 👨‍💻 Checkout my [Portfolio](https://sauravugi.github.io/) &nbsp; 
@@ -20,7 +18,7 @@
 <!-- Resume -->
 -  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://github.com/sauravugi/Resume/blob/main/Saurav_Kumar_Resume.pdf) &nbsp; 
 
-- 💬 Ask me about **JAVA,SPRINGBOOT**
+- 💬 Ask me about **JAVA, SPRINGBOOT, MICROSERVICES, ANGULAR, AWS**
 
 - 📫 How to reach me **sauravugi@gmail.com**
 
@@ -50,7 +48,7 @@
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,spring,maven,hibernate,git,netlify,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,spring,maven,hibernate,git,netlify,vscode,angular,aws)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 <p align="left">
