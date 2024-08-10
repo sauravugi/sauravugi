@@ -4,9 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravugi&label=Profile%20views&color=0e75b6&style=flat" alt="sauravkumar" /> </p>
 
-<img align="right" style="height: 200px; margin-bottom: 30px;" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif" alt="">
+<img align="right" style="height: 200px;" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif" alt="">
+<h6></h6>
 
-- 🚀 **Backend Developer with 1.5+ years of experience at Fintek Software Services Pvt. Ltd., Pathankot**
+- 🚀 **Backend Developer with 1.5+ years of experience at Fintek Software Services Pvt. Ltd.**
 - 🌱 Specializing in **Java, Spring Boot, RESTful APIs, AWS and Microservices**
 - 💡 Passionate about scalable **Backend Solutions** and **Continuous Learning**
 - 👯 Open to collaboration on innovative **Backend Projects 😄**
